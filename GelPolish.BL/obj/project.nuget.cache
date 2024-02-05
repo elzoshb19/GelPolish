@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2nghOddGaeqUysgIwmdtiS/oRtgY28aGeu0/YXTr5u+ddT4A0a7sXRwM28rF2L6EXyMnLsPUZa0ztYVjyCqLA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Потребител\\Desktop\\Uni 4\\-C#\\GelPolish-Store\\GelPolish.BL\\GelPolishStore.BL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Потребител\\Desktop\\Uni 4\\-C#\\GelPolish-Store\\GelPolishStore.DL\\GelPolishStore.DL.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Потребител\\Desktop\\Uni 4\\-C#\\GelPolish-Store\\GelPolishStore.DL\\GelPolishStore.DL.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Потребител\\Desktop\\Uni 4\\-C#\\GelPolish-Store\\GelPolishStore.Models\\GelPolishStore.Models.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Потребител\\Desktop\\Uni 4\\-C#\\GelPolish-Store\\GelPolishStore.Models\\GelPolishStore.Models.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
