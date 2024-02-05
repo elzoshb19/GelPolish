@@ -22,6 +22,10 @@ namespace GelPolishStore.BL.Services
             _gelpolishService = gelpolishService;
         }
 
+        public ShopService(GelPolishService gelpolishService, ManufactureService manufactureService)
+        {
+        }
+
         public Manufacture? Manufacture { get; private set; }
         public List<GelPolish>? GelPolish { get; private set; }
 

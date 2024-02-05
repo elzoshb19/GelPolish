@@ -9,7 +9,7 @@ namespace GelPolishStore.Models.Requests
     public class GetAllGelPolishesByManufactureRequest
     {
         public int ManufactureId { get; set; }
-
+        public int manufactureId { get; set; }
         public DateTime AfterDate { get; set; }
     }
 }

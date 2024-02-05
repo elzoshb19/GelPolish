@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GelPolishStore.DL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89847f511364f610f88872c7012405e4df2a7bec")]
 [assembly: System.Reflection.AssemblyProductAttribute("GelPolishStore.DL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GelPolishStore.DL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
